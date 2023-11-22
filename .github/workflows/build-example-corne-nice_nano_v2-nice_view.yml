@@ -12,4 +12,4 @@ jobs:
       shield: '["corne_left nice_view_adapter nice_view","corne_right nice_view_adapter nice_view"]'
       alphas: '["Colemak"]'
       clipboard: '["Win"]'
-      kconfig: '["CONFIG_ZMK_SLEEP=y\nCONFIG_ZMK_IDLE_SLEEP_TIMEOUT=3600000\nCONFIG_BT_CTLR_TX_PWR_PLUS_8=y"]'
+      kconfig: '["CONFIG_ZMK_SLEEP=y\nCONFIG_ZMK_IDLE_SLEEP_TIMEOUT=3600000\nCONFIG_BT_CTLR_TX_PWR_PLUS_8=y\nCONFIG_ZMK_KEYBOARD_NAME="Manfreds Corne""]'
